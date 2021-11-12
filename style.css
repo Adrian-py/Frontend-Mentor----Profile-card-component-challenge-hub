@@ -10,10 +10,12 @@
   --darkcyan: hsl(185, 75%, 39%);
   --desaturatedblue: hsl(229, 23%, 23%);
   --grayishblue: hsl(227, 10%, 46%);
+  overflow: hidden;
 }
 
 html {
   font-family: "Kumbh Sans", sans-serif;
+  overflow: hidden;
 }
 
 body {
